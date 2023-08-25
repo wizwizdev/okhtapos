@@ -1,9 +1,11 @@
 # Okhtapos
 
-### Installation
+### Installation 
 
 #### Ubuntu 18.04, Ubuntu 20.04, Ubuntu 22.04
 
 ```
 bash <(curl -s https://raw.githubusercontent.com/wizwizdev/okhtapos/okhtapos.sh)
 ```
+
+- Important note: If you have Wiz Wiz installed, do not install Octopus because it will cause interference
